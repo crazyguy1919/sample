@@ -31,7 +31,7 @@
 }
 h1
 {
-color:red !important;
+color:blue !important;
 }
 @media (prefers-color-scheme: dark) {
   :root {
